@@ -54,7 +54,7 @@ html{
     position: absolute;
     top: 0;
     left: 0;
-    background: url('webpic1.jpg') no-repeat center center/cover;
+    background: url('new image/webpic1.jpg') no-repeat center center/cover;
     height: 700px;
     width: 100%;
     z-index: -1;
@@ -97,7 +97,7 @@ html{
 #education{
     display: flex;
     flex-direction: column;
-    background-color: rgb(26, 204, 248);
+    background-color: rgb(3, 134, 170);
 }
 #education h1{
     margin: 60px;
